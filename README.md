@@ -1,2 +1,2 @@
-# image-to-poetry
-Image-based peotry generation project.
+# Image-oriented poetry generation: a new model structure for multimodal codec task
+
